@@ -28,6 +28,12 @@
       height="40"
       width="40"
   /></a>
+  <a href="https://greasyfork.org/fr/users/11667-hoax017" target="blank"
+    ><img
+      src="https://greasyfork.org/vite/assets/blacklogo96-sWE0jP07.png"
+      height="40"
+      width="40"
+  /></a>
   <a href="https://codepen.io/Hoax017" target="blank"
     ><img
       src="https://skillicons.dev/icons?i=codepen"
@@ -37,17 +43,25 @@
 </p>
 
 ### Currently working with:
-
-![My Skills](https://skillicons.dev/icons?i=yarn,js,ts,nodejs,php,graphql,apollo,react,symfony,express,nextjs,html,css,bash,git,github,githubactions,rabbitmq,docker,regex,mysql,elasticsearch,prisma,redis,tailwind,notion,postman,phpstorm,windows,apple)
+<img
+      src="https://skillicons.dev/icons?i=yarn,js,ts,nodejs,php,graphql,apollo,react,symfony,express,nextjs,html,css,bash,git,github,githubactions,rabbitmq,docker,regex,mysql,elasticsearch,prisma,redis,tailwind,notion,postman,phpstorm,windows,apple"
+      title="yarn,js,ts,nodejs,php,graphql,apollo,react,symfony,express,nextjs,html,css,bash,git,github,githubactions,rabbitmq,docker,regex,mysql,elasticsearch,prisma,redis,tailwind,notion,postman,phpstorm,windows,apple"
+/>
 
 ### Previously worked with:
+<img
+      src="https://skillicons.dev/icons?i=mongodb,cypress,nestjs,sass,angular,jquery,gulp,npm,gitlab,nginx,aws,linux,ubuntu,webstorm,sublime"
+      title="mongodb,cypress,nestjs,sass,angular,jquery,gulp,npm,gitlab,nginx,aws,linux,ubuntu,webstorm,sublime"
+/>
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,cypress,nestjs,sass,angular,jquery,gulp,npm,gitlab,nginx,aws,linux,ubuntu,webstorm,sublime)
 <p>and many other things...</p>
 
 ### I study it in my spare time:
 
-![My Skills](https://skillicons.dev/icons?i=sqlite,bootstrap,electron,java,py,c,cs,cpp,django,md,discord,bots,discordjs,raspberrypi,vim,atom,arch,arduino)
+<img
+      src="https://skillicons.dev/icons?i=sqlite,bootstrap,electron,java,py,c,cs,cpp,django,md,discord,bots,discordjs,raspberrypi,vim,atom,arch,arduino"
+      title="sqlite,bootstrap,electron,java,py,c,cs,cpp,django,md,discord,bots,discordjs,raspberrypi,vim,atom,arch,arduino"
+/>
 
 <h2><p align="center">Stats</p></h2>
 <p align="center">

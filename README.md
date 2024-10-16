@@ -30,7 +30,7 @@
   /></a>
   <a href="https://greasyfork.org/fr/users/11667-hoax017" target="blank"
     ><img
-      src="https://greasyfork.org/vite/assets/blacklogo96-sWE0jP07.png"
+      src="https://raw.githubusercontent.com/JasonBarnabe/greasyfork/master/public/images/blacklogo512.png"
       height="40"
       width="40"
   /></a>

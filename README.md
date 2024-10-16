@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoax</h1>
 <h3 align="center">A fullstack developer from Paris 🇫🇷</h3>
 
-- 🔭 I’m currently working on [Smallable](https://github.com/Smallable/)
+- 🔭 I’m currently working on [Planity](https://github.com/planity)
 
 - 💬 Ask me about **js/node.js/ts/php and other**
 

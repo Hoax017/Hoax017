@@ -42,26 +42,88 @@
   /></a>
 </p>
 
-### Currently working with:
-<img
-      src="https://skillicons.dev/icons?i=yarn,js,ts,nodejs,php,graphql,apollo,react,symfony,express,nextjs,html,css,bash,git,github,githubactions,rabbitmq,docker,regex,mysql,elasticsearch,prisma,redis,tailwind,notion,postman,phpstorm,windows,apple"
-      title="yarn,js,ts,nodejs,php,graphql,apollo,react,symfony,express,nextjs,html,css,bash,git,github,githubactions,rabbitmq,docker,regex,mysql,elasticsearch,prisma,redis,tailwind,notion,postman,phpstorm,windows,apple"
-/>
+
+<kbd>
+    <kbd>Currently working with</kbd>
+    <img src="https://skillicons.dev/icons?i=yarn" title="yarn"/>
+    <img src="https://skillicons.dev/icons?i=js" title="js"/>
+    <img src="https://skillicons.dev/icons?i=ts" title="ts"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs"/>
+    <img src="https://skillicons.dev/icons?i=react" title="react"/>
+    <img src="https://skillicons.dev/icons?i=firebase" title="firebase"/>
+    <img src="https://skillicons.dev/icons?i=aws" title="aws"/>
+    <img src="https://skillicons.dev/icons?i=dynamodb" title="dynamodb"/>
+    <img src="https://skillicons.dev/icons?i=cloudflare" title="cloudflare"/>
+    <img src="https://skillicons.dev/icons?i=html" title="html"/>
+    <img src="https://skillicons.dev/icons?i=css" title="css"/>
+    <img src="https://skillicons.dev/icons?i=bash" title="bash"/>
+    <img src="https://skillicons.dev/icons?i=git" title="git"/>
+    <img src="https://skillicons.dev/icons?i=github" title="github"/>
+    <img src="https://skillicons.dev/icons?i=githubactions" title="githubactions"/>
+    <img src="https://skillicons.dev/icons?i=regex" title="regex"/>
+    <img src="https://skillicons.dev/icons?i=gradle" title="gradle"/>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" title="elasticsearch"/>
+    <img src="https://skillicons.dev/icons?i=notion" title="notion"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="postman"/>
+    <img src="https://skillicons.dev/icons?i=webstorm" title="webstorm"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio" title="androidstudio"/>
+    <img src="https://skillicons.dev/icons?i=apple" title="apple"/>
+</kbd>
 
 ### Previously worked with:
-<img
-      src="https://skillicons.dev/icons?i=mongodb,cypress,nestjs,sass,angular,jquery,gulp,npm,gitlab,nginx,aws,linux,ubuntu,webstorm,sublime"
-      title="mongodb,cypress,nestjs,sass,angular,jquery,gulp,npm,gitlab,nginx,aws,linux,ubuntu,webstorm,sublime"
-/>
+<img src="https://skillicons.dev/icons?i=php" title="php"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="mysql"/>
+<img src="https://skillicons.dev/icons?i=prisma" title="prisma"/>
+<img src="https://skillicons.dev/icons?i=redis" title="redis"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="tailwind"/>
+<img src="https://skillicons.dev/icons?i=graphql" title="graphql"/>
+<img src="https://skillicons.dev/icons?i=apollo" title="apollo"/>
+<img src="https://skillicons.dev/icons?i=symfony" title="symfony"/>
+<img src="https://skillicons.dev/icons?i=express" title="express"/>
+<img src="https://skillicons.dev/icons?i=nextjs" title="nextjs"/>
+<img src="https://skillicons.dev/icons?i=rabbitmq" title="rabbitmq"/>
+<img src="https://skillicons.dev/icons?i=docker" title="docker"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="mongodb"/>
+<img src="https://skillicons.dev/icons?i=cypress" title="cypress"/>
+<img src="https://skillicons.dev/icons?i=nestjs" title="nestjs"/>
+<img src="https://skillicons.dev/icons?i=sass" title="sass"/>
+<img src="https://skillicons.dev/icons?i=angular" title="angular"/>
+<img src="https://skillicons.dev/icons?i=jquery" title="jquery"/>
+<img src="https://skillicons.dev/icons?i=gulp" title="gulp"/>
+<img src="https://skillicons.dev/icons?i=npm" title="npm"/>
+<img src="https://skillicons.dev/icons?i=gitlab" title="gitlab"/>
+<img src="https://skillicons.dev/icons?i=nginx" title="nginx"/>
+<img src="https://skillicons.dev/icons?i=aws" title="aws"/>
+<img src="https://skillicons.dev/icons?i=linux" title="linux"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows" title="windows"/>
+<img src="https://skillicons.dev/icons?i=phpstorm" title="phpstorm"/>
+<img src="https://skillicons.dev/icons?i=sublime" title="sublime"/>
 
 <p>and many other things...</p>
 
 ### I study it in my spare time:
 
-<img
-      src="https://skillicons.dev/icons?i=sqlite,bootstrap,electron,java,py,c,cs,cpp,django,md,discord,bots,discordjs,raspberrypi,vim,atom,arch,arduino"
-      title="sqlite,bootstrap,electron,java,py,c,cs,cpp,django,md,discord,bots,discordjs,raspberrypi,vim,atom,arch,arduino"
-/>
+<img src="https://skillicons.dev/icons?i=sqlite" title="sqlite"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap"/>
+<img src="https://skillicons.dev/icons?i=deno" title="deno"/>
+<img src="https://skillicons.dev/icons?i=electron" title="electron"/>
+<img src="https://skillicons.dev/icons?i=java" title="java"/>
+<img src="https://skillicons.dev/icons?i=py" title="py"/>
+<img src="https://skillicons.dev/icons?i=c" title="c"/>
+<img src="https://skillicons.dev/icons?i=cs" title="cs"/>
+<img src="https://skillicons.dev/icons?i=cpp" title="cpp"/>
+<img src="https://skillicons.dev/icons?i=django" title="django"/>
+<img src="https://skillicons.dev/icons?i=matlab" title="matlab"/>
+<img src="https://skillicons.dev/icons?i=md" title="md"/>
+<img src="https://skillicons.dev/icons?i=discord" title="discord"/>
+<img src="https://skillicons.dev/icons?i=bots" title="bots"/>
+<img src="https://skillicons.dev/icons?i=discordjs" title="discordjs"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" title="raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=vim" title="vim"/>
+<img src="https://skillicons.dev/icons?i=atom" title="atom"/>
+<img src="https://skillicons.dev/icons?i=arch" title="arch"/>
+<img src="https://skillicons.dev/icons?i=arduino" title="arduino"/>
 
 <h2><p align="center">Stats</p></h2>
 <p align="center">

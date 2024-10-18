@@ -2,10 +2,14 @@
 <h3 align="center">A fullstack developer from Paris 🇫🇷</h3>
 
 - 🔭 I’m currently working on [Planity](https://github.com/planity)
-
 - 💬 Ask me about **js/node.js/ts/php and other**
-
+- 📝 I enjoy creating **tool script**
 - 📫 How to reach me **discord/instagram**
+- 🖥️ I've been coding since **2009**
+- 📚 I'm currently learning **deno**
+- 🎮 I'm playing **Valorant** 👀
+- ⚡ Fun fact **I'm a big fan of the series "Lost"**
+
 
 ### Connect with me:
 
@@ -42,9 +46,9 @@
   /></a>
 </p>
 
+### Currently working with:
 
-<kbd>
-    <kbd>Currently working with</kbd>
+<p>
     <img src="https://skillicons.dev/icons?i=yarn" title="yarn"/>
     <img src="https://skillicons.dev/icons?i=js" title="js"/>
     <img src="https://skillicons.dev/icons?i=ts" title="ts"/>
@@ -68,9 +72,11 @@
     <img src="https://skillicons.dev/icons?i=webstorm" title="webstorm"/>
     <img src="https://skillicons.dev/icons?i=androidstudio" title="androidstudio"/>
     <img src="https://skillicons.dev/icons?i=apple" title="apple"/>
-</kbd>
+</p>
 
 ### Previously worked with:
+
+<p>
 <img src="https://skillicons.dev/icons?i=php" title="php"/>
 <img src="https://skillicons.dev/icons?i=mysql" title="mysql"/>
 <img src="https://skillicons.dev/icons?i=prisma" title="prisma"/>
@@ -93,17 +99,17 @@
 <img src="https://skillicons.dev/icons?i=npm" title="npm"/>
 <img src="https://skillicons.dev/icons?i=gitlab" title="gitlab"/>
 <img src="https://skillicons.dev/icons?i=nginx" title="nginx"/>
-<img src="https://skillicons.dev/icons?i=aws" title="aws"/>
 <img src="https://skillicons.dev/icons?i=linux" title="linux"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu"/>
 <img src="https://skillicons.dev/icons?i=windows" title="windows"/>
 <img src="https://skillicons.dev/icons?i=phpstorm" title="phpstorm"/>
 <img src="https://skillicons.dev/icons?i=sublime" title="sublime"/>
-
+</p>
 <p>and many other things...</p>
 
 ### I study it in my spare time:
 
+<p>
 <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap"/>
 <img src="https://skillicons.dev/icons?i=deno" title="deno"/>
@@ -124,7 +130,7 @@
 <img src="https://skillicons.dev/icons?i=atom" title="atom"/>
 <img src="https://skillicons.dev/icons?i=arch" title="arch"/>
 <img src="https://skillicons.dev/icons?i=arduino" title="arduino"/>
-
+</p>
 <h2><p align="center">Stats</p></h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"

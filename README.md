@@ -57,7 +57,6 @@
     <img src="https://skillicons.dev/icons?i=firebase" title="firebase"/>
     <img src="https://skillicons.dev/icons?i=aws" title="aws"/>
     <img src="https://skillicons.dev/icons?i=dynamodb" title="dynamodb"/>
-    <img src="https://skillicons.dev/icons?i=cloudflare" title="cloudflare"/>
     <img src="https://skillicons.dev/icons?i=html" title="html"/>
     <img src="https://skillicons.dev/icons?i=css" title="css"/>
     <img src="https://skillicons.dev/icons?i=bash" title="bash"/>
